@@ -10,7 +10,7 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hi there, I'm <GradientText>Onuralp</GradientText> 👋
         </>
       }
       description={
@@ -29,14 +29,14 @@ const Hero = () => (
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          src="/assets/images/onuralp.svg"
           alt="Avatar image"
           loading="lazy"
         />
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://twitter.com/theoalpcakir/">
             <HeroSocial
               src="/assets/images/twitter-icon.png"
               alt="Twitter icon"
